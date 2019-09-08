@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Jose Jaime Bisuna",
+        "email": "josejaime.bisuna@benilde.edu.ph",
+        "age": 31
+    },
+    {
+        "id": 2,
+        "name": "Tester User",
+        "email": "tester@benilde.edu.ph",
+        "age": 15
+    },
+    {
+        "id": 3,
+        "name": "Tester User 2",
+        "email": "testeruser2@benilde.edu.ph",
+        "age": 20
+    },
+    {
+        "id": 4,
+        "name": "Tester User 3",
+        "email": "testeruser3@benilde.edu.ph",
+        "age": "23"
+    },
+    {
+        "id": 5,
+        "name": "Tester User 4",
+        "email": "testeruser4@benilde.edu.ph",
+        "age": "19"
+    }
+]
